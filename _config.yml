@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Base Dash
-email: weavera12@example.com
+email: weavera12@udayton.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for the Team 11 Base Dash Project
+  Website for the Team 11 Base Dash Project by Andrew Weaver, Kye Sprouse, Michel Kanga
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  aweaver-151
 
 # Build settings
 theme: minima
